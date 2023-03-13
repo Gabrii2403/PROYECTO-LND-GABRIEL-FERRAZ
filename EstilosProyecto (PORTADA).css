@@ -1,0 +1,148 @@
+
+*{
+        margin: 0;
+        padding: 0;
+        background-color:rgb(255, 196, 108);
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+        overflow: hidden;
+    }
+    
+    .borde{
+        position: absolute; 
+        left: 0px; 
+        top: 0px;
+        opacity: 30%;
+        width: 1490px;
+        height: 750px;
+    }
+
+    .Gabriel{
+        font-family:Arial, Helvetica, sans-serif;
+        font-style: italic;
+        position: absolute;
+        left: 597px;
+        top: 680px;
+    }
+    
+    .titulo{
+        font-family:Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 597px;
+        top: 60px;
+    }
+
+    .logo{
+        position: absolute; 
+        left: 195px; 
+        top: 445px;
+        width: 150px;
+        height: 150px;
+    }
+    .menu{
+        background-color:rgb(255, 196, 108);
+        position: absolute;
+        left: 170px;
+        top: 155px;
+        width: 1150px;
+        height: 60px;
+        border: 3.5px solid rgb(220, 159, 66);
+    }
+    
+    .Portada{
+        position: absolute;
+        left: 470px;
+        top: 260px;
+        width: 580px;
+        height: 355px;
+    }
+
+    .Inicio{
+        font-family:Arial, Helvetica, sans-serif;
+        font-size: 30px;
+        color: black;
+        position: absolute;
+        left: 10px;
+        top: 3.5px;
+        padding: 4px;
+        
+    }
+
+    .raya1{
+        position: absolute;
+        left: 96px;
+        top: 5px;
+        font-size: 30px;
+        color: black;
+    }
+
+    .Cultura{
+        font-family:Arial, Helvetica, sans-serif;
+        font-size: 30px;
+        color: black;
+        position: absolute;
+        left: 110px;
+        top: 3.5px;
+        padding: 4px;
+    }
+
+    .raya2{
+        position: absolute;
+        left: 221px;
+        top: 5px;
+        font-size: 30px;
+        color: black;
+    }
+
+    .Costumbres{
+        font-family:Arial, Helvetica, sans-serif;
+        font-size: 30px;
+        color: black;
+        position: absolute;
+        left: 235px;
+        top: 3.5px;
+        padding: 4px;
+    }
+
+    .raya3{
+        position: absolute;
+        left: 412px;
+        top: 5px;
+        font-size: 30px;
+        color: black;
+    }
+
+    .Lenguaje{
+        font-family:Arial, Helvetica, sans-serif;
+        font-size: 30px;
+        color: black;
+        position: absolute;
+        left: 425px;
+        top: 3.5px;
+        padding: 4px;
+    }
+    .BarraBusqueda{
+        font-family:Arial, Helvetica, sans-serif;
+        font-size: 30px;
+        background-color: aliceblue;
+        width: 495px;
+        height: 50px;
+        position: absolute;
+        left: 580px;
+        top: 2px;
+    }
+    .FlechaDerecha{
+        position: absolute;
+        left: 1400px;
+        top: 340px;
+        width: 90px;
+        height: 65px;
+    }
+    .lupa{
+      position: absolute;
+      left:1085px;
+       top: 2px;
+       width: 50px;
+       height: 50px;
+    }
